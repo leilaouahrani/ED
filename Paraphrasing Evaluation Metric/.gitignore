@@ -1,0 +1,8 @@
+.idea/*
+assets_*
+
+*\.pyc
+.DS_Store
+setup.py
+setup.cfg
+LICENSE.txt
